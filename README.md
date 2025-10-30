@@ -1,4 +1,3 @@
 - 👋 Hi, I’m @michele-setti
 - 🏢 Specialist for system integration
-- 👀 I’m interested in automation
-- 📫 michele.setti@gsl-computer.de
+- 📫 michele@setti.cloud
