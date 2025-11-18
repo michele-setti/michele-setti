@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @michele-setti
-- 🏢 Specialist for system integration
+- 🏢 Specialist for system integration & event technician
 - 📫 michele@setti.cloud
